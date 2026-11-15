@@ -63,7 +63,7 @@
 * [Java alapú webtechnológiák](http://www.ms.sapientia.ro/~manyi/index_java_techn.html) - Antal Margit (PDF)
 * [Java programozás](https://nagygusztav.hu/pdf/java-programozas.pdf) - Nagy Gusztáv (PDF)
 * [Objektumorientált programozás](http://www.ms.sapientia.ro/~manyi/teaching/oop/oop.pdf) - Antal Margit (PDF)
-* [Programozás III.](http://www.sze.hu/~varjasin/oktat.html) - Varjasi Norbert (PDF)
+* [Programozás III.](https://web.archive.org/web/20250705000719/http://www.sze.hu/~varjasin/oktat.html) - Varjasi Norbert (PDF) *( :card_file_box: archived)*
 * [RMI](http://mek.oszk.hu/01200/01263/index.phtml) - Dékány Dániel (PDF)
 
 
